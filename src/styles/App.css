@@ -1,0 +1,12 @@
+.reg-area {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.account {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+}
